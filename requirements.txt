@@ -1,8 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pyswisseph
 pytz
 geopy
 timezonefinder
 pydantic
 openai
+python-multipart
